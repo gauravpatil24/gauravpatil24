@@ -58,6 +58,14 @@
 
 ---
 
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravpatil24&theme=tokyo-night&hide_border=true&area=true" alt="Gaurav's GitHub Activity Graph" />
+</p>
+
+---
+
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
