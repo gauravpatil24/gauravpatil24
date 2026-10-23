@@ -32,17 +32,62 @@
 
 <h2 align="center">📌 Featured Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/gauravpatil24/AzureDevops">
-    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
-  </a>
-  <a href="https://github.com/gauravpatil24/Terraform">
-    <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  </a>
-  <a href="https://github.com/gauravpatil24/DevOps-Projects-Beginner-To-Advanced">
-    <img src="https://img.shields.io/badge/DevOps_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevOps Projects" />
-  </a>
-</p>
+<p align="center">A few hands-on projects focused on cloud infrastructure, CI/CD, containers, and GitOps.</p>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">☁️ Azure DevOps &amp; Terraform</h3>
+      <p align="center">Example Azure DevOps pipelines and Terraform definitions for deploying Azure resources.</p>
+      <p align="center">
+        <a href="https://github.com/gauravpatil24/terraformadopipeline">
+          <img src="https://img.shields.io/badge/View_Repository-0078D7?style=for-the-badge&logo=github&logoColor=white" alt="View Terraform pipeline repository" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+        <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚀 Voting App: CI/CD &amp; GitOps</h3>
+      <p align="center">Microservices delivery with Azure Pipelines, Docker image publishing, AKS deployment, and Argo CD GitOps.</p>
+      <p align="center">
+        <a href="https://github.com/gauravpatil24/voting-app-azure-devops-argocd">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View voting app repository" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏗️ Terraform</h3>
+      <p align="center">A repository for Terraform practice and infrastructure-as-code examples.</p>
+      <p align="center">
+        <a href="https://github.com/gauravpatil24/Terraform">
+          <img src="https://img.shields.io/badge/View_Repository-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="View Terraform repository" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Infrastructure_as_Code-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Infrastructure as Code" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📚 DevOps Projects</h3>
+      <p align="center">A collection of DevOps learning projects, organized from beginner to advanced topics.</p>
+      <p align="center">
+        <a href="https://github.com/gauravpatil24/DevOps-Projects-Beginner-To-Advanced">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View DevOps projects repository" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
