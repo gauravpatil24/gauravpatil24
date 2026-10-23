@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A7F785&width=600&lines=Azure+DevOps+Engineer;Automating+Today%2C+Engineering+Tomorrow;Scaling+to+the+Cloud+%F0%9F%9A%80" alt="Typing SVG" />
+    <p align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A7F785&width=600&lines=Azure+DevOps+Engineer;Automating+Today%2C+Engineering+Tomorrow;Scaling+to+the+Cloud+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
